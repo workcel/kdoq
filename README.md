@@ -1,2 +1,0 @@
-# kdoq
-teste1
